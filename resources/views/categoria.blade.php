@@ -4,5 +4,6 @@
 <form>
     <label>Nome</label>
     <input/>
+    <submit>
 </form>
 @stop
